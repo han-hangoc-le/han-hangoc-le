@@ -6,8 +6,10 @@
 
 ### 📚 Currently chilling  ᕦ(ò_óˇ)ᕤ
 - 🧠 AI Fellow @ **Break Through Tech** - deepening ML foundations
-- 🔬 Undergraduate researcher @ **SPELL Lab**, SBU - working with visual-language models
 - 🎨 Frontend lead on the **WTC 9/11 Oral History** website
+
+### 🤘 Used to hop on (ﾉ*･ω･)ﾉ✧✧
+- 🔬 Undergraduate researcher @ **SPELL Lab**, SBU - working with visual-language models
 
 ### 🦝 Find me here  ༼ つ ◕_◕ ༽つ
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanhnle)
